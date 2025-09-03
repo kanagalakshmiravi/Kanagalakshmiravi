@@ -3,7 +3,8 @@
 # I am Kanagalakshmi
 ### Full Stack Developer | Python | React | SQL
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Girl Coding" width="350" src="https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=600">
+
 
 I am a passionate Full Stack Developer who enjoys crafting modern web applications using **React, Python, and Django**. I love solving problems, building scalable solutions, and continuously learning new technologies to stay ahead in the tech world.
 
@@ -35,8 +36,16 @@ I am a passionate Full Stack Developer who enjoys crafting modern web applicatio
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanagalakshmiravi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanagalakshmiravi&layout=compact&theme=radical)
+<table>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kanagalakshmiravi&show_icons=true&theme=radical" />
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanagalakshmiravi&layout=compact&theme=radical" />
+  </td>
+</tr>
+</table>
 
 ---
 
