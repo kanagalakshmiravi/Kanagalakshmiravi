@@ -51,8 +51,7 @@ I am a passionate Full Stack Developer who enjoys crafting modern web applicatio
 ---
 
 ## 🔗 Contact / Links
-
-- Portfolio: [Your Portfolio](https://yourportfolio.com)  
+ 
 - LinkedIn: [Kanagalakshmi Ravi](https://www.linkedin.com/in/kanagalakshmi-ravi4306/)
 - Email: kanagalakshmi4306@gmail.com
 
