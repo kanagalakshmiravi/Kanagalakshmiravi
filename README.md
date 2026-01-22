@@ -3,7 +3,9 @@
 # I am Kanagalakshmi
 ### Full Stack Developer | Python | React | SQL
 
-<img align="right" alt="Female Programmer" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<img src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" alt="Coding" width="350" align="right" />
+
 
 
 
